@@ -151,4 +151,4 @@ async def dice_roll(msg, dice: str):
 
     await msg.channel.send(embed=embed)
 
-bot.run('ODU5NjMzNzY5MTQ4ODQyMDE0.YNviVQ.Zyqeuxfm35J7T3Odq3z4C8M-Zko')
+bot.run('token.token')
